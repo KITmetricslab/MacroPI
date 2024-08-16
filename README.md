@@ -14,9 +14,9 @@ Please note that this project is not affiliated with or endorsed by the Internat
 
 For a visualization of these forecasts, visit our [Shiny App](https://probability-forecasting.shinyapps.io/macropi/). 
 
-We have preregistered the real-time publication of these forecasts. The relevant document is available here, containing details on the evaluation of these forecasts, time horizon, etc.
+We have preregistered the real-time publication of these forecasts. A draft of the relevant document is available in this repo ('MacroPI_draft_preregistration') containing details on the evaluation of these forecasts, time horizon, etc. We plan to deposit a final version of this preregistration on a suitable platform soon. 
 
-The preprint, which contains details on the methodology and describes application results of the retrospective analysis, is available on ArXiV. 
+The preprint, which contains details on the methodology and describes application results of the retrospective analysis, is available on [ArXiV](https://arxiv.org/abs/2408.08304). 
 
 ## Purpose 
 
