@@ -1,22 +1,23 @@
-# 'MacroPI' - Macroeconomic Prediction Intervals 
+# Simple distributional forecasts for real GDP growth and inflation - a forecasting project
 
-**A forecasting project - simple distributional forecasts for real GDP growth and inflation**
+We construct simple macroeconomic distributional forecasts for inflation and growth in the form of prediction intervals, using existing point forecasts issued by the International Monetary Fund (IMF) within the scope of the biannual World Economic Outlook (WEO) publication. 
 
-In this project, we construct simple macroeconomic distributional forecasts for in the form of prediction intervals, using existing point forecasts issued by the International Monetary Fund (IMF) within the scope of the biannual World Economic Outlook (WEO) publication. 
+This repository contains our time-stamped forecasts, as well as historical and current WEO point forecasts. 
 
-The WEO forecasts are issued biannually (once in April and once in September/October) and we issue corresponding prediction intervals in the same rhythm. 
+We publish our forecasts in accordance with the WEO publication schedule, that is, once in April and once in September/October.
+
+For a visualization of our distributional forecasts, visit our [Shiny App](https://probability-forecasting.shinyapps.io/macropi/). 
+
+![MacroPI_shiny_capture](https://github.com/user-attachments/assets/894b4b3b-428f-4e18-8319-7ff180046876)
+
+We have preregistered the real-time publication of these forecasts. A draft of the relevant document is available in this repository (['MacroPI_draft_preregistration'](https://github.com/KITmetricslab/MacroPI/blob/main/MacroPI_draft_preregistration.pdf)). It contains details on the evaluation of these forecasts, the time horizon of he project, etc. We plan to deposit a final version on a suitable preregistration platform soon.
+
+The preprint, which contains details on the methodology and describes application results of the retrospective analysis, is available on [ArXiV](https://arxiv.org/abs/2408.08304). 
 
 For more information on the IMF WEO forecasts, visit the [corresponding website](https://www.imf.org/en/Publications/WEO/frequently-asked-questions)
 
 Please note that this project is not affiliated with or endorsed by the International Monetary Fund. The data are used in accordance with current [Copyright and Usage guidelines](https://www.imf.org/external/terms.htm) of the WEO publication. 
 
-## Key links
-
-For a visualization of these forecasts, visit our [Shiny App](https://probability-forecasting.shinyapps.io/macropi/). 
-
-We have preregistered the real-time publication of these forecasts. A draft of the relevant document is available in this repo ('MacroPI_draft_preregistration') containing details on the evaluation of these forecasts, time horizon, etc. We plan to deposit a final version of this preregistration on a suitable platform soon. 
-
-The preprint, which contains details on the methodology and describes application results of the retrospective analysis, is available on [ArXiV](https://arxiv.org/abs/2408.08304). 
 
 ## Purpose 
 
