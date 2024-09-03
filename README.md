@@ -14,6 +14,9 @@ We have preregistered the real-time publication of these forecasts. A draft of t
 
 The preprint, which contains details on the methodology and describes application results of the retrospective analysis, is available on [ArXiV](https://arxiv.org/abs/2408.08304). 
 
+All the code used for the analysis in the preprint can be found in [this](https://github.com/fredbec/uqimf) GitHub repo.
+
+
 For more information on the IMF WEO forecasts, visit the [corresponding website](https://www.imf.org/en/Publications/WEO/frequently-asked-questions)
 
 Please note that this project is not affiliated with or endorsed by the International Monetary Fund. The data are used in accordance with current [Copyright and Usage guidelines](https://www.imf.org/external/terms.htm) of the WEO publication. 
