@@ -1,30 +1,47 @@
-# Simple distributional forecasts for real GDP growth and inflation - a forecasting project
+# Simple Macroeconomic Forecast Distributions for the G7 Economies- a Forecasting Project
 
-We construct simple macroeconomic distributional forecasts for inflation and growth in the form of prediction intervals, using existing point forecasts issued by the International Monetary Fund (IMF) within the scope of the biannual World Economic Outlook (WEO) publication. 
+We construct simple real-time forecast distributions for inflation and growth in the form of prediction intervals, using existing point forecasts issued by the International Monetary Fund (IMF) within the scope of the biannual World Economic Outlook (WEO) publication. 
 
-This repository contains our time-stamped forecasts, as well as historical and current WEO point forecasts. 
+This repository contains our time-stamped forecasts, as well as historical and current WEO point forecasts. We publish our forecasts in accordance with the WEO publication schedule, that is, once in April and once in September/October.
 
-We publish our forecasts in accordance with the WEO publication schedule, that is, once in April and once in September/October.
 
-For a visualization of our distributional forecasts, visit our [Shiny App](https://probability-forecasting.shinyapps.io/macropi/). 
+
+## Retrospective analysis and replication materials
+
+All the code and replication material for our working paper can be found in the following GitHub repository. It also contains code to update and publish the real-time forecasts located here.
+> <https://github.com/fredbec/uqimf>
+
+The working paper contains details on the methodology and describes application results of the retrospective analysis. It can be found on arXiv, please cite using the following:
+
+> Becker, Krüger, and Schienle. 2024 “Simple Macroeconomic Forecast
+> Distributions for the G7 Economies” arXiv.
+> <https://doi.org/10.48550/arXiv.2408.08304>.
+
+    @unpublished{Beckeretal_2024,
+      title={Simple Macroeconomic Forecast Distributions for the G7 Economies},
+      author={Becker, Friederike and Kr{\"u}ger, Fabian and Schienle, Melanie},
+      note={Preprint, arXiv:2408.08304},
+      year={2024}
+    }
+
+## Real-Time Publication
+
+For more information on the time horizon of the project, the scope, and the evaluation of the real-time forecasts, please refer to the [draft preregistration protocol](https://github.com/KITmetricslab/MacroPI/blob/main/MacroPI_draft_preregistration.pdf) in the repository. We plan to deposit a final version on a suitable preregistration platform soon.
+
+For a dashboard visualization of our forecasts distribution, visit our Shiny App
+> <https://probability-forecasting.shinyapps.io/macropi/> 
 
 ![MacroPI_shiny_capture](https://github.com/user-attachments/assets/894b4b3b-428f-4e18-8319-7ff180046876)
 
-We have preregistered the real-time publication of these forecasts. A draft of the relevant document is available in this repository (['MacroPI_draft_preregistration'](https://github.com/KITmetricslab/MacroPI/blob/main/MacroPI_draft_preregistration.pdf)). It contains details on the evaluation of these forecasts, the time horizon of he project, etc. We plan to deposit a final version on a suitable preregistration platform soon.
-
-The preprint, which contains details on the methodology and describes application results of the retrospective analysis, is available on [ArXiV](https://arxiv.org/abs/2408.08304). 
-
-All the code used for the analysis in the preprint can be found in [this](https://github.com/fredbec/uqimf) GitHub repo.
-
+## Copyright and Usage
 
 For more information on the IMF WEO forecasts, visit the [corresponding website](https://www.imf.org/en/Publications/WEO/frequently-asked-questions)
 
 Please note that this project is not affiliated with or endorsed by the International Monetary Fund. The data are used in accordance with current [Copyright and Usage guidelines](https://www.imf.org/external/terms.htm) of the WEO publication. 
 
-
 ## Purpose 
 
-Forecasts by macroeconomic institutions are ubiquitous, but are frequently issued in a point forecast format only. Given that forecasts are statements about a future quantity and are thereby inherently uncertain, their transparent and comprehensive communication requires a quantification of said uncertainty. In this project, we address this issue by attaching prediction intervals to one of the largest - both in terms of dissemination and scope - sources for macroeconomic predictions: the International Monetary Fund World Economic Outlook forecasts.
+Forecasts by macroeconomic institutions are ubiquitous, but are frequently issued in a point forecast format only. Given that forecasts are statements about a future quantity and are thereby inherently uncertain, their transparent and comprehensive communication requires a quantification of said uncertainty. In this project, we address this issue by constructing prediction intervals by using one of the largest - both in terms of dissemination and scope - preexisting sources for macroeconomic predictions: the International Monetary Fund World Economic Outlook forecasts.
 
 ## Forecast targets
 
