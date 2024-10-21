@@ -26,7 +26,20 @@ The working paper contains details on the methodology and describes application 
 
 ## Real-Time Publication
 
-For more information on the time horizon of the project, the scope, and the evaluation of the real-time forecasts, please refer to the [draft preregistration protocol](https://github.com/KITmetricslab/MacroPI/blob/main/MacroPI_draft_preregistration.pdf) in the repository. We plan to deposit a final version on a suitable preregistration platform soon.
+For more information on the time horizon of the project, the scope, and the evaluation of the real-time forecasts, please refer to our preregistration protocol, deposited on the OSF platform.
+
+> Becker, Krüger, and Schienle. 2024 “Simple Macroeconomic Forecast
+> Distributions for the G7 Economies” OSF.
+> <osf.io/3b6hk>.
+
+@unpublished{Beckeretal_2024_prereg,
+ title={Simple Macroeconomic Forecast Distributions for the G7 Economies},
+ note={Deposited 21 September 2024, Registry of the Open Science Foundation, osf.io/3b6hk},
+ publisher={OSF},
+ author={Becker, Friederike and Krüger, Fabian and Schienle, Melanie},
+ year={2024},
+ month={Sep}
+}
 
 For a dashboard visualization of our forecasts distribution, visit our Shiny App
 > <https://probability-forecasting.shinyapps.io/macropi/> 
