@@ -11,11 +11,12 @@ This repository contains our time-stamped forecasts, as well as historical and c
 All the code and replication material for our working paper can be found in the following GitHub repository. It also contains code to update and publish the real-time forecasts located here.
 > <https://github.com/fredbec/uqimf>
 
-The associated paper, published in The Annals of Applied Statistics, provides full methodological details and presents the results of the retrospective analysis. It is available open access at:
+The associated paper, published in *The Annals of Applied Statistics*, provides full methodological details and presents the results of the retrospective analysis. It is available open access at:
 
-> Becker, Krüger, and Schienle. 2025 “Simple Macroeconomic Forecast
-> Distributions for the G7 Economies” Annals of Applied Statistics.
+> Becker, F., F. Krüger, and M. Schienle (2025). “Simple Macroeconomic Forecast Distributions for the G7 Economies.” *Annals of Applied Statistics*.
 > <https://doi.org/10.1214/25-AOAS2095>.
+
+When referencing this work, please use the following citation:
 
 	@article{BeckerKruegerSchienle_2025,
   	title={Simple Macroeconomic Forecast Distributions for the G7 Economies},
