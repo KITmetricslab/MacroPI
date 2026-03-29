@@ -11,18 +11,24 @@ This repository contains our time-stamped forecasts, as well as historical and c
 All the code and replication material for our working paper can be found in the following GitHub repository. It also contains code to update and publish the real-time forecasts located here.
 > <https://github.com/fredbec/uqimf>
 
-The working paper contains details on the methodology and describes application results of the retrospective analysis. It can be found on arXiv, please cite using the following:
+The associated paper, published in The Annals of Applied Statistics, provides full methodological details and presents the results of the retrospective analysis. It is available open access at:
 
-> Becker, Krüger, and Schienle. 2024 “Simple Macroeconomic Forecast
-> Distributions for the G7 Economies” arXiv.
-> <https://doi.org/10.48550/arXiv.2408.08304>.
+> Becker, Krüger, and Schienle. 2025 “Simple Macroeconomic Forecast
+> Distributions for the G7 Economies” Annals of Applied Statistics.
+> <https://doi.org/10.1214/25-AOAS2095>.
 
-    @unpublished{Beckeretal_2024,
-      title={Simple Macroeconomic Forecast Distributions for the G7 Economies},
-      author={Becker, Friederike and Kr{\"u}ger, Fabian and Schienle, Melanie},
-      note={Preprint, arXiv:2408.08304},
-      year={2024}
-    }
+	@article{BeckerKruegerSchienle_2025,
+  	title={Simple Macroeconomic Forecast Distributions for the G7 Economies},
+  	author={Becker, Friederike and Kr{\"u}ger, Fabian and Schienle, Melanie},
+  	journal={The Annals of Applied Statistics},
+  	volume={19},
+  	number={4},
+  	pages={2878--2897},
+  	year={2025},
+  	doi={10.1214/25-AOAS2095},
+  	publisher={Institute of Mathematical Statistics}
+	}
+
 
 ## Real-Time Publication
 
