@@ -51,12 +51,13 @@ For more information on the time horizon of the project, the scope, and the eval
 For a dashboard visualization of our forecast distributions, visit our Shiny App:
 > <https://probability-forecasting.shinyapps.io/macropi/>
 
-![MacroPI_shiny_capture](https://github.com/user-attachments/assets/894b4b3b-428f-4e18-8319-7ff180046876)
+![MacroPI_shiny_capture](https://github.com/user-attachments/assets/e8d5f17b-1423-4e95-a761-8569b768bc3a)
 
 ## Forecast targets
 
 - CPI inflation rate (in %)
 - Real GDP growth rate (in %)
+
 
 ## Contents of this repository
 
